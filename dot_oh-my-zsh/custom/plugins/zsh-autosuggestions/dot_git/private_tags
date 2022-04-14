@@ -1,0 +1,87 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+HEADER_FILES	../Makefile	/^HEADER_FILES := \\$/;"	m
+PLUGIN_TARGET	../Makefile	/^PLUGIN_TARGET := zsh-autosuggestions.zsh$/;"	m
+SRC_DIR	../Makefile	/^SRC_DIR    := .\/src$/;"	m
+SRC_FILES	../Makefile	/^SRC_FILES := \\$/;"	m
+TerminalSession	../spec/terminal_session.rb	/^class TerminalSession$/;"	c
+_complete	../src/strategies/completion.zsh	/^	function _complete() {$/;"	f
+_complete	../zsh-autosuggestions.zsh	/^	function _complete() {$/;"	f
+_zsh_autosuggest_accept	../src/widgets.zsh	/^_zsh_autosuggest_accept() {$/;"	f
+_zsh_autosuggest_accept	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_accept() {$/;"	f
+_zsh_autosuggest_async_request	../src/async.zsh	/^_zsh_autosuggest_async_request() {$/;"	f
+_zsh_autosuggest_async_request	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_async_request() {$/;"	f
+_zsh_autosuggest_async_response	../src/async.zsh	/^_zsh_autosuggest_async_response() {$/;"	f
+_zsh_autosuggest_async_response	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_async_response() {$/;"	f
+_zsh_autosuggest_bind_widget	../src/bind.zsh	/^_zsh_autosuggest_bind_widget() {$/;"	f
+_zsh_autosuggest_bind_widget	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_bind_widget() {$/;"	f
+_zsh_autosuggest_bind_widgets	../src/bind.zsh	/^_zsh_autosuggest_bind_widgets() {$/;"	f
+_zsh_autosuggest_bind_widgets	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_bind_widgets() {$/;"	f
+_zsh_autosuggest_capture_completion_async	../src/strategies/completion.zsh	/^_zsh_autosuggest_capture_completion_async() {$/;"	f
+_zsh_autosuggest_capture_completion_async	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_capture_completion_async() {$/;"	f
+_zsh_autosuggest_capture_completion_sync	../src/strategies/completion.zsh	/^_zsh_autosuggest_capture_completion_sync() {$/;"	f
+_zsh_autosuggest_capture_completion_sync	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_capture_completion_sync() {$/;"	f
+_zsh_autosuggest_capture_completion_widget	../src/strategies/completion.zsh	/^_zsh_autosuggest_capture_completion_widget() {$/;"	f
+_zsh_autosuggest_capture_completion_widget	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_capture_completion_widget() {$/;"	f
+_zsh_autosuggest_capture_postcompletion	../src/strategies/completion.zsh	/^_zsh_autosuggest_capture_postcompletion() {$/;"	f
+_zsh_autosuggest_capture_postcompletion	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_capture_postcompletion() {$/;"	f
+_zsh_autosuggest_capture_setup	../src/strategies/completion.zsh	/^_zsh_autosuggest_capture_setup() {$/;"	f
+_zsh_autosuggest_capture_setup	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_capture_setup() {$/;"	f
+_zsh_autosuggest_clear	../src/widgets.zsh	/^_zsh_autosuggest_clear() {$/;"	f
+_zsh_autosuggest_clear	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_clear() {$/;"	f
+_zsh_autosuggest_disable	../src/widgets.zsh	/^_zsh_autosuggest_disable() {$/;"	f
+_zsh_autosuggest_disable	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_disable() {$/;"	f
+_zsh_autosuggest_enable	../src/widgets.zsh	/^_zsh_autosuggest_enable() {$/;"	f
+_zsh_autosuggest_enable	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_enable() {$/;"	f
+_zsh_autosuggest_escape_command	../src/util.zsh	/^_zsh_autosuggest_escape_command() {$/;"	f
+_zsh_autosuggest_escape_command	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_escape_command() {$/;"	f
+_zsh_autosuggest_execute	../src/widgets.zsh	/^_zsh_autosuggest_execute() {$/;"	f
+_zsh_autosuggest_execute	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_execute() {$/;"	f
+_zsh_autosuggest_fetch	../src/widgets.zsh	/^_zsh_autosuggest_fetch() {$/;"	f
+_zsh_autosuggest_fetch	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_fetch() {$/;"	f
+_zsh_autosuggest_fetch_suggestion	../src/fetch.zsh	/^_zsh_autosuggest_fetch_suggestion() {$/;"	f
+_zsh_autosuggest_fetch_suggestion	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_fetch_suggestion() {$/;"	f
+_zsh_autosuggest_highlight_apply	../src/highlight.zsh	/^_zsh_autosuggest_highlight_apply() {$/;"	f
+_zsh_autosuggest_highlight_apply	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_highlight_apply() {$/;"	f
+_zsh_autosuggest_highlight_reset	../src/highlight.zsh	/^_zsh_autosuggest_highlight_reset() {$/;"	f
+_zsh_autosuggest_highlight_reset	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_highlight_reset() {$/;"	f
+_zsh_autosuggest_incr_bind_count	../src/bind.zsh	/^_zsh_autosuggest_incr_bind_count() {$/;"	f
+_zsh_autosuggest_incr_bind_count	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_incr_bind_count() {$/;"	f
+_zsh_autosuggest_invoke_original_widget	../src/bind.zsh	/^_zsh_autosuggest_invoke_original_widget() {$/;"	f
+_zsh_autosuggest_invoke_original_widget	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_invoke_original_widget() {$/;"	f
+_zsh_autosuggest_modify	../src/widgets.zsh	/^_zsh_autosuggest_modify() {$/;"	f
+_zsh_autosuggest_modify	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_modify() {$/;"	f
+_zsh_autosuggest_partial_accept	../src/widgets.zsh	/^_zsh_autosuggest_partial_accept() {$/;"	f
+_zsh_autosuggest_partial_accept	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_partial_accept() {$/;"	f
+_zsh_autosuggest_start	../src/start.zsh	/^_zsh_autosuggest_start() {$/;"	f
+_zsh_autosuggest_start	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_start() {$/;"	f
+_zsh_autosuggest_strategy_completion	../src/strategies/completion.zsh	/^_zsh_autosuggest_strategy_completion() {$/;"	f
+_zsh_autosuggest_strategy_completion	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_strategy_completion() {$/;"	f
+_zsh_autosuggest_strategy_history	../src/strategies/history.zsh	/^_zsh_autosuggest_strategy_history() {$/;"	f
+_zsh_autosuggest_strategy_history	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_strategy_history() {$/;"	f
+_zsh_autosuggest_strategy_match_prev_cmd	../src/strategies/match_prev_cmd.zsh	/^_zsh_autosuggest_strategy_match_prev_cmd() {$/;"	f
+_zsh_autosuggest_strategy_match_prev_cmd	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_strategy_match_prev_cmd() {$/;"	f
+_zsh_autosuggest_suggest	../src/widgets.zsh	/^_zsh_autosuggest_suggest() {$/;"	f
+_zsh_autosuggest_suggest	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_suggest() {$/;"	f
+_zsh_autosuggest_toggle	../src/widgets.zsh	/^_zsh_autosuggest_toggle() {$/;"	f
+_zsh_autosuggest_toggle	../zsh-autosuggestions.zsh	/^_zsh_autosuggest_toggle() {$/;"	f
+attach!	../spec/terminal_session.rb	/^  def attach!$/;"	f	class:TerminalSession
+clear_screen	../spec/terminal_session.rb	/^  def clear_screen$/;"	f	class:TerminalSession
+content	../spec/terminal_session.rb	/^  def content(esc_seqs: false)$/;"	f	class:TerminalSession
+cursor	../spec/terminal_session.rb	/^  def cursor$/;"	f	class:TerminalSession
+destroy	../spec/terminal_session.rb	/^  def destroy$/;"	f	class:TerminalSession
+initialize	../spec/terminal_session.rb	/^  def initialize(opts = {})$/;"	f	class:TerminalSession
+paste_string	../spec/terminal_session.rb	/^  def paste_string(str)$/;"	f	class:TerminalSession
+run_command	../spec/terminal_session.rb	/^  def run_command(command)$/;"	f	class:TerminalSession
+send_keys	../spec/terminal_session.rb	/^  def send_keys(*keys)$/;"	f	class:TerminalSession
+send_string	../spec/terminal_session.rb	/^  def send_string(str)$/;"	f	class:TerminalSession
+tmux_command	../spec/terminal_session.rb	/^  def tmux_command(cmd)$/;"	f	class:TerminalSession
+tmux_socket_name	../spec/terminal_session.rb	/^  def tmux_socket_name$/;"	f	class:TerminalSession
+with_history	../spec/spec_helper.rb	/^  def with_history(*commands, &block)$/;"	f
+zsh_version	../spec/terminal_session.rb	/^  def zsh_version$/;"	f	class:TerminalSession
+zshexit	../src/strategies/completion.zsh	/^		zshexit() {$/;"	f
+zshexit	../zsh-autosuggestions.zsh	/^		zshexit() {$/;"	f

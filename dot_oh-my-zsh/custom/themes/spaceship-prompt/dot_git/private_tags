@@ -1,0 +1,157 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+append_zshrc	../scripts/install.sh	/^append_zshrc() {$/;"	f
+code	../scripts/install.sh	/^code()    { paint "$bold"   "SPACESHIP: $@" ; }$/;"	f
+code	../scripts/uninstall.sh	/^code()    { paint "$bold"   "SPACESHIP: $@" ; }$/;"	f
+date	../tests/hooks.test.zsh	/^  date() { echo -n $date_mock }$/;"	f
+date	../tests/hooks.test.zsh	/^  date() { echo -n $date_stop_mock }$/;"	f
+error	../scripts/install.sh	/^error()   { paint "$red"    "SPACESHIP: $@" ; }$/;"	f
+error	../scripts/uninstall.sh	/^error()   { paint "$red"    "SPACESHIP: $@" ; }$/;"	f
+header	../scripts/tests.sh	/^header() {$/;"	f
+info	../scripts/install.sh	/^info()    { paint "$cyan"   "SPACESHIP: $@" ; }$/;"	f
+info	../scripts/uninstall.sh	/^info()    { paint "$cyan"   "SPACESHIP: $@" ; }$/;"	f
+main	../scripts/install.sh	/^main() {$/;"	f
+main	../scripts/tests.sh	/^main() {$/;"	f
+main	../scripts/uninstall.sh	/^main() {$/;"	f
+mock	../tests/utils.test.zsh	/^  mock() {}$/;"	f
+oneTimeSetUp	../tests/char.test.zsh	/^oneTimeSetUp() {$/;"	f
+oneTimeSetUp	../tests/dir.test.zsh	/^oneTimeSetUp() {$/;"	f
+oneTimeSetUp	../tests/elm.test.zsh	/^oneTimeSetUp() {$/;"	f
+oneTimeSetUp	../tests/hooks.test.zsh	/^oneTimeSetUp() {$/;"	f
+oneTimeSetUp	../tests/host.test.zsh	/^oneTimeSetUp() {$/;"	f
+oneTimeSetUp	../tests/section.test.zsh	/^oneTimeSetUp() {$/;"	f
+oneTimeSetUp	../tests/uninstall.test.zsh	/^oneTimeSetUp() {$/;"	f
+oneTimeSetUp	../tests/user.test.zsh	/^oneTimeSetUp() {$/;"	f
+oneTimeSetUp	../tests/utils.test.zsh	/^oneTimeSetUp() {$/;"	f
+oneTimeTearDown	../tests/char.test.zsh	/^oneTimeTearDown() {$/;"	f
+oneTimeTearDown	../tests/dir.test.zsh	/^oneTimeTearDown() {$/;"	f
+oneTimeTearDown	../tests/elm.test.zsh	/^oneTimeTearDown() {$/;"	f
+oneTimeTearDown	../tests/host.test.zsh	/^oneTimeTearDown() {$/;"	f
+oneTimeTearDown	../tests/user.test.zsh	/^oneTimeTearDown() {$/;"	f
+paint	../scripts/install.sh	/^paint() {$/;"	f
+paint	../scripts/uninstall.sh	/^paint() {$/;"	f
+prompt_spaceship_setup	../spaceship.zsh	/^prompt_spaceship_setup() {$/;"	f
+remove_zshrc_content	../scripts/uninstall.sh	/^remove_zshrc_content() {$/;"	f
+rmln	../scripts/uninstall.sh	/^rmln() {$/;"	f
+setUp	../tests/char.test.zsh	/^setUp() {$/;"	f
+setUp	../tests/dir.test.zsh	/^setUp() {$/;"	f
+setUp	../tests/elm.test.zsh	/^setUp() {$/;"	f
+setUp	../tests/hooks.test.zsh	/^setUp() {$/;"	f
+setUp	../tests/host.test.zsh	/^setUp() {$/;"	f
+setUp	../tests/section.test.zsh	/^setUp() {$/;"	f
+setUp	../tests/uninstall.test.zsh	/^setUp() {$/;"	f
+setUp	../tests/user.test.zsh	/^setUp() {$/;"	f
+spaceship_aws	../sections/aws.zsh	/^spaceship_aws() {$/;"	f
+spaceship_bar	../tests/section.test.zsh	/^  spaceship_bar() { echo -n 'bar' }$/;"	f
+spaceship_battery	../sections/battery.zsh	/^spaceship_battery() {$/;"	f
+spaceship_char	../sections/char.zsh	/^spaceship_char() {$/;"	f
+spaceship_conda	../sections/conda.zsh	/^spaceship_conda() {$/;"	f
+spaceship_dir	../sections/dir.zsh	/^spaceship_dir() {$/;"	f
+spaceship_docker	../sections/docker.zsh	/^spaceship_docker() {$/;"	f
+spaceship_docker_context	../sections/docker_context.zsh	/^spaceship_docker_context() {$/;"	f
+spaceship_dotnet	../sections/dotnet.zsh	/^spaceship_dotnet() {$/;"	f
+spaceship_elixir	../sections/elixir.zsh	/^spaceship_elixir() {$/;"	f
+spaceship_elm	../sections/elm.zsh	/^spaceship_elm() {$/;"	f
+spaceship_ember	../sections/ember.zsh	/^spaceship_ember() {$/;"	f
+spaceship_exec_time	../sections/exec_time.zsh	/^spaceship_exec_time() {$/;"	f
+spaceship_exec_time_precmd_hook	../lib/hooks.zsh	/^spaceship_exec_time_precmd_hook() {$/;"	f
+spaceship_exec_time_preexec_hook	../lib/hooks.zsh	/^spaceship_exec_time_preexec_hook() {$/;"	f
+spaceship_exec_vcs_info_precmd_hook	../lib/hooks.zsh	/^spaceship_exec_vcs_info_precmd_hook() {$/;"	f
+spaceship_exit_code	../sections/exit_code.zsh	/^spaceship_exit_code() {$/;"	f
+spaceship_foo	../tests/section.test.zsh	/^  spaceship_foo() { echo -n 'foo' }$/;"	f
+spaceship_gcloud	../sections/gcloud.zsh	/^spaceship_gcloud() {$/;"	f
+spaceship_git	../sections/git.zsh	/^spaceship_git() {$/;"	f
+spaceship_git_branch	../sections/git_branch.zsh	/^spaceship_git_branch() {$/;"	f
+spaceship_git_status	../sections/git_status.zsh	/^spaceship_git_status() {$/;"	f
+spaceship_golang	../sections/golang.zsh	/^spaceship_golang() {$/;"	f
+spaceship_gradle	../sections/gradle.zsh	/^spaceship_gradle() {$/;"	f
+spaceship_haskell	../sections/haskell.zsh	/^spaceship_haskell() {$/;"	f
+spaceship_hg	../sections/hg.zsh	/^spaceship_hg() {$/;"	f
+spaceship_hg_branch	../sections/hg_branch.zsh	/^spaceship_hg_branch() {$/;"	f
+spaceship_hg_status	../sections/hg_status.zsh	/^spaceship_hg_status() {$/;"	f
+spaceship_host	../sections/host.zsh	/^spaceship_host() {$/;"	f
+spaceship_ibmcloud	../sections/ibmcloud.zsh	/^spaceship_ibmcloud() {$/;"	f
+spaceship_jobs	../sections/jobs.zsh	/^spaceship_jobs() {$/;"	f
+spaceship_julia	../sections/julia.zsh	/^spaceship_julia() {$/;"	f
+spaceship_kubectl	../sections/kubectl.zsh	/^spaceship_kubectl() {$/;"	f
+spaceship_kubectl_context	../sections/kubectl_context.zsh	/^spaceship_kubectl_context() {$/;"	f
+spaceship_kubectl_version	../sections/kubectl_version.zsh	/^spaceship_kubectl_version() {$/;"	f
+spaceship_line_sep	../sections/line_sep.zsh	/^spaceship_line_sep() {$/;"	f
+spaceship_maven	../sections/maven.zsh	/^spaceship_maven() {$/;"	f
+spaceship_node	../sections/node.zsh	/^spaceship_node() {$/;"	f
+spaceship_package	../sections/package.zsh	/^spaceship_package() {$/;"	f
+spaceship_php	../sections/php.zsh	/^spaceship_php() {$/;"	f
+spaceship_prompt	../spaceship.zsh	/^spaceship_prompt() {$/;"	f
+spaceship_ps2	../spaceship.zsh	/^spaceship_ps2() {$/;"	f
+spaceship_pyenv	../sections/pyenv.zsh	/^spaceship_pyenv() {$/;"	f
+spaceship_rprompt	../spaceship.zsh	/^spaceship_rprompt() {$/;"	f
+spaceship_ruby	../sections/ruby.zsh	/^spaceship_ruby() {$/;"	f
+spaceship_rust	../sections/rust.zsh	/^spaceship_rust() {$/;"	f
+spaceship_swift	../sections/swift.zsh	/^spaceship_swift() {$/;"	f
+spaceship_terraform	../sections/terraform.zsh	/^spaceship_terraform() {$/;"	f
+spaceship_time	../sections/time.zsh	/^spaceship_time() {$/;"	f
+spaceship_user	../sections/user.zsh	/^spaceship_user() {$/;"	f
+spaceship_venv	../sections/venv.zsh	/^spaceship_venv() {$/;"	f
+spaceship_vi_mode	../sections/vi_mode.zsh	/^spaceship_vi_mode() {$/;"	f
+spaceship_vi_mode_disable	../sections/vi_mode.zsh	/^spaceship_vi_mode_disable() {$/;"	f
+spaceship_vi_mode_enable	../sections/vi_mode.zsh	/^spaceship_vi_mode_enable() {$/;"	f
+spaceship_xcode	../sections/xcode.zsh	/^spaceship_xcode() {$/;"	f
+success	../scripts/install.sh	/^success() { paint "$green"  "SPACESHIP: $@" ; }$/;"	f
+success	../scripts/uninstall.sh	/^success() { paint "$green"  "SPACESHIP: $@" ; }$/;"	f
+tearDown	../tests/char.test.zsh	/^tearDown() {$/;"	f
+tearDown	../tests/dir.test.zsh	/^tearDown() {$/;"	f
+tearDown	../tests/elm.test.zsh	/^tearDown() {$/;"	f
+tearDown	../tests/hooks.test.zsh	/^tearDown() {$/;"	f
+tearDown	../tests/host.test.zsh	/^tearDown() {$/;"	f
+tearDown	../tests/section.test.zsh	/^tearDown() {$/;"	f
+tearDown	../tests/user.test.zsh	/^tearDown() {$/;"	f
+test_char	../tests/char.test.zsh	/^test_char() {$/;"	f
+test_char_failure	../tests/char.test.zsh	/^test_char_failure() {$/;"	f
+test_char_prefix	../tests/char.test.zsh	/^test_char_prefix() {$/;"	f
+test_char_suffix	../tests/char.test.zsh	/^test_char_suffix() {$/;"	f
+test_char_symbol	../tests/char.test.zsh	/^test_char_symbol() {$/;"	f
+test_compose_prompt	../tests/section.test.zsh	/^test_compose_prompt() {$/;"	f
+test_defined	../tests/utils.test.zsh	/^test_defined() {$/;"	f
+test_deprecated	../tests/utils.test.zsh	/^test_deprecated() {$/;"	f
+test_dir_color	../tests/dir.test.zsh	/^test_dir_color() {$/;"	f
+test_dir_home	../tests/dir.test.zsh	/^test_dir_home() {$/;"	f
+test_dir_prefix	../tests/dir.test.zsh	/^test_dir_prefix() {$/;"	f
+test_dir_suffix	../tests/dir.test.zsh	/^test_dir_suffix() {$/;"	f
+test_dir_trunc	../tests/dir.test.zsh	/^test_dir_trunc() {$/;"	f
+test_dir_trunc_git	../tests/dir.test.zsh	/^test_dir_trunc_git() {$/;"	f
+test_dir_trunc_git_submodule	../tests/dir.test.zsh	/^test_dir_trunc_git_submodule() {$/;"	f
+test_displaytime	../tests/utils.test.zsh	/^test_displaytime() {$/;"	f
+test_elm	../tests/elm.test.zsh	/^test_elm() {$/;"	f
+test_elm_files	../tests/elm.test.zsh	/^test_elm_files() {$/;"	f
+test_elm_prefix	../tests/elm.test.zsh	/^test_elm_prefix() {$/;"	f
+test_elm_show_false	../tests/elm.test.zsh	/^test_elm_show_false() {$/;"	f
+test_elm_suffix	../tests/elm.test.zsh	/^test_elm_suffix() {$/;"	f
+test_elm_symbol	../tests/elm.test.zsh	/^test_elm_symbol() {$/;"	f
+test_exec_time_precmd_hook	../tests/hooks.test.zsh	/^test_exec_time_precmd_hook() {$/;"	f
+test_exec_time_preexec_hook	../tests/hooks.test.zsh	/^test_exec_time_preexec_hook() {$/;"	f
+test_exec_vcs_info_precmd_hook	../tests/hooks.test.zsh	/^test_exec_vcs_info_precmd_hook() {$/;"	f
+test_exists	../tests/utils.test.zsh	/^test_exists() {$/;"	f
+test_host	../tests/host.test.zsh	/^test_host() {$/;"	f
+test_host_color	../tests/host.test.zsh	/^test_host_color() {$/;"	f
+test_host_prefix	../tests/host.test.zsh	/^test_host_prefix() {$/;"	f
+test_host_show	../tests/host.test.zsh	/^test_host_show() {$/;"	f
+test_host_suffix	../tests/host.test.zsh	/^test_host_suffix() {$/;"	f
+test_is_git	../tests/utils.test.zsh	/^test_is_git() {$/;"	f
+test_is_hg	../tests/utils.test.zsh	/^test_is_hg() {$/;"	f
+test_section	../tests/section.test.zsh	/^test_section() {$/;"	f
+test_uninstall_preserve_zshrc_content	../tests/uninstall.test.zsh	/^test_uninstall_preserve_zshrc_content() {$/;"	f
+test_uninstall_remove_spaceship_content_from_zshrc	../tests/uninstall.test.zsh	/^test_uninstall_remove_spaceship_content_from_zshrc() {$/;"	f
+test_union	../tests/utils.test.zsh	/^test_union() {$/;"	f
+test_user	../tests/user.test.zsh	/^test_user() {$/;"	f
+test_user_color	../tests/user.test.zsh	/^test_user_color() {$/;"	f
+test_user_prefix	../tests/user.test.zsh	/^test_user_prefix() {$/;"	f
+test_user_show	../tests/user.test.zsh	/^test_user_show() {$/;"	f
+test_user_suffix	../tests/user.test.zsh	/^test_user_suffix() {$/;"	f
+vcs_info	../tests/hooks.test.zsh	/^  vcs_info() { echo -n $info_mock }$/;"	f
+warn	../scripts/install.sh	/^warn()    { paint "$yellow" "SPACESHIP: $@" ; }$/;"	f
+warn	../scripts/uninstall.sh	/^warn()    { paint "$yellow" "SPACESHIP: $@" ; }$/;"	f
+zle	../sections/vi_mode.zsh	/^  function zle-keymap-select() { zle reset-prompt ; zle -R }$/;"	f

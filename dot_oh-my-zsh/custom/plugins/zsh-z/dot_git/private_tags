@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+_zshz_add_or_remove_path	../zsh-z.plugin.zsh	/^  _zshz_add_or_remove_path() {$/;"	f
+_zshz_chpwd	../zsh-z.plugin.zsh	/^_zshz_chpwd() {$/;"	f
+_zshz_echo	../zsh-z.plugin.zsh	/^  _zshz_echo() {$/;"	f
+_zshz_find_common_root	../zsh-z.plugin.zsh	/^  _zshz_find_common_root() {$/;"	f
+_zshz_find_matches	../zsh-z.plugin.zsh	/^  _zshz_find_matches() {$/;"	f
+_zshz_legacy_complete	../zsh-z.plugin.zsh	/^  _zshz_legacy_complete() {$/;"	f
+_zshz_output	../zsh-z.plugin.zsh	/^  _zshz_output() {$/;"	f
+_zshz_precmd	../zsh-z.plugin.zsh	/^_zshz_precmd() {$/;"	f
+_zshz_printv	../zsh-z.plugin.zsh	/^  _zshz_printv() {$/;"	f
+_zshz_update_datafile	../zsh-z.plugin.zsh	/^  _zshz_update_datafile() {$/;"	f
+_zshz_usage	../zsh-z.plugin.zsh	/^_zshz_usage() {$/;"	f
+zshz	../zsh-z.plugin.zsh	/^zshz() {$/;"	f
